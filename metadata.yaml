@@ -1,0 +1,23 @@
+_repo: Whitewash_56827
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Vachell, Horace Annesley
+    birthdate: 1861
+    deathdate: 1955
+    gutenberg_agent_id: '3495'
+    url: http://www.gutenberg.org/2009/agents/3495
+    wikipedia: http://en.wikipedia.org/wiki/Horace_Annesley_Vachell
+description: ''
+gutenberg_issued: '2018-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56827'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Whitewash
+url: http://www.gutenberg.org/ebooks/56827
